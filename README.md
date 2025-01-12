@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vinaybhardwaj-dev
+- 👋 Hi, I’m @Vinaybhardwaj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python & SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 You can contact e in vnkmrbhardwaj@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
